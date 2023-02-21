@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62724228892",
+    "project_id": "senderemailaut",
+    "storage_bucket": "senderemailaut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62724228892:android:7fb7ec13a6a9ddeec89cd9",
+        "android_client_info": {
+          "package_name": "com.example.senderemailaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62724228892-nqrvas0ml0siuuqdioi6q1tgbhi2459i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9m6aFIkHmb00rhQFWddYsiYzBRaDlkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62724228892-nqrvas0ml0siuuqdioi6q1tgbhi2459i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

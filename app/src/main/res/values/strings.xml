@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SenderEmailAut</string>
+    <string name="do_kogo">To:</string>
+    <string name="marcel_i_rafa_robi_siano">Marcel i Rafał robią siano</string>
+    <string name="wy_lij_ofert">Send</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+</resources>
